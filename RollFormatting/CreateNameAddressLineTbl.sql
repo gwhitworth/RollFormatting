@@ -2,7 +2,7 @@ IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[NAME_
 ALTER TABLE [dbo].[NAME_ADDRESS_LINES] DROP CONSTRAINT IF EXISTS [DF_NAME_ADDRESS_LINES_DateTimeStamp]
 GO
 
-/****** Object:  Table [dbo].[NAME_ADDRESS_LINES]    Script Date: 10/19/2018 12:07:57 PM ******/
+/****** Object:  Table [dbo].[NAME_ADDRESS_LINES]   Script Date: 10/19/2018 12:07:57 PM ******/
 DROP TABLE IF EXISTS [dbo].[NAME_ADDRESS_LINES]
 GO
 
