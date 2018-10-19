@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-RollFormatting",
+      "appliesTo": "RollFormatting/RollFormatting.ssmssqlproj",
+      "type": "msbuild"
+    }
+  ]
+}
