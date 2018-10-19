@@ -6,7 +6,7 @@ GO
 DROP TABLE IF EXISTS [dbo].[NAME_ADDRESS_LINES]
 GO
 
-/****** Object:  Table [dbo].[NAME_ADDRESS_LINES]    Script Date: 10/19/2018 12:07:57 PM ******/
+/****** Object:  Table [dbo].[NAME_ADDRESS_LINES] c   Script Date: 10/19/2018 12:07:57 PM ******/
 SET ANSI_NULLS ON
 GO
 
